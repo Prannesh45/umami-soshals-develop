@@ -1,4 +1,4 @@
--- CreateTable
+--- CreateTable
 CREATE TABLE `account` (
     `user_id` INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
     `username` VARCHAR(255) NOT NULL,
